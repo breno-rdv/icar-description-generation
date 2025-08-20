@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed:
 
 ## 1. Configuration
 
-There are two main configuration steps:
+This project uses the Quarkus LangChain4j extension, which automatically configures the connection to Amazon Bedrock. You only need to provide your credentials and specify the model you wish to use.
 
 ### a) AWS Credentials
 
